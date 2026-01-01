@@ -1,0 +1,38 @@
+{
+    "seed": 12345,
+    "categoric_columns": [
+        "VehicleType",
+        "Gearbox",
+        "Model",
+        "FuelType",
+        "Brand",
+        "NotRepaired"
+    ],
+    "numeric_columns": [
+        "Power",
+        "Mileage",
+        "Age"
+    ],
+    "columns_order": [
+        "VehicleType",
+        "Gearbox",
+        "Model",
+        "FuelType",
+        "Brand",
+        "NotRepaired",
+        "Power",
+        "Mileage",
+        "Age"
+    ],
+    "logarithm_columns": [
+        "Power",
+        "Age"
+    ],
+    "power_transformer_columns": "Mileage",
+    "n_estimators": 200,
+    "dataset_last_update": "2016-04",
+    "euro_to_mxn": 21.13,
+    "source": "eBay Kleinanzeigen (Alemania)",
+    "currency_used_in_training": "EUR (€)",
+    "time_gap": "9 años de antigüedad respecto a 2025"
+}

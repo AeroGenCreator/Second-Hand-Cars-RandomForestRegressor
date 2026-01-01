@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+catboost
+xgboost
+lightgbm
+plotly
+seaborn
+matplotlib
+streamlit
+duckdb
+IPython
